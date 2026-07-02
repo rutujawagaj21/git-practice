@@ -3,3 +3,5 @@ Hello Git.git status
  My Name is Rutuja 
  I want to become a Software Engineer. 
  Git is Easy. 
+Git is very useful.
+I am becoming better at git every day.
