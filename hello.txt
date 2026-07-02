@@ -7,3 +7,4 @@ Git is very useful.
 I am becoming better at git every day.
 learning Restore command.
 Working on feature Branch
+Learning Git Merge.
